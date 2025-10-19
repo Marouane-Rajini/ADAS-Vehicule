@@ -14,10 +14,10 @@ Python, TensorFlow, OpenCV, Arduino, Ultrasonic sensors.
 
 ## Results
 <p align="center">
-  <img src="docs/Adas.png" width="250" alt="Line Following"/>
-  <img src="docs/100.png" width="250" alt="Traffic Sign Detection"/>
-  <img src="docs/Stop.png" width="250" alt="Auto Braking"/>
-  <img src="docs/Turn left.png" width="250" alt="Auto Braking"/>
-  <img src="docs/Vehicule.png" width="250" alt="Auto Braking"/>
+  <img src="docs/adas.png" width="250" alt="Line Following"/>
+  <img src="docs/100.png"  width="250" alt="Traffic Sign Detection"/>
+  <img src="docs/stop.png" width="250" alt="Auto Braking"/>
+  <img src="docs/turn_left.png" width="250" alt="Turn Left"/>
+  <img src="docs/vehicle.png" width="250" alt="Vehicle"/>
 </p>
 
