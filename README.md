@@ -18,6 +18,6 @@ Python, TensorFlow, OpenCV, Arduino, Ultrasonic sensors.
   <img src="docs/100.png" width="250" alt="Traffic Sign Detection"/>
   <img src="docs/Stop.png" width="250" alt="Auto Braking"/>
   <img src="docs/Turn left.png" width="250" alt="Auto Braking"/>
-  <img src="docs/Vehecule.png" width="250" alt="Auto Braking"/>
+  <img src="docs/Vehicule.png" width="250" alt="Auto Braking"/>
 </p>
 
